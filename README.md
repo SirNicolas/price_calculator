@@ -17,6 +17,6 @@ docker-compose exec backend pytest
 ```
 or 
 ```
-pytest
+pytest backend
 ```
 
